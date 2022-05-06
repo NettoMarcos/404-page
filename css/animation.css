@@ -1,0 +1,160 @@
+
+@keyframes error_top_animation {
+    0% {
+        left: 50%;
+        text-shadow: 5px 0px 1px blue;
+    }
+    5% {
+        left: 48%;
+        text-shadow: 5px 0px 1px red;
+    }
+    10% {
+        left: 48%;
+        text-shadow: 5px 0px 1px blue
+    }
+    15% {
+        left: 51%;
+    }
+    20% {
+        left: 50%;
+    }
+    25% {
+        left: 51%;
+        text-shadow: 5px 0px 1px red;
+    }
+    30% {
+        left: 52%;
+    }
+    35% {
+        left: 48%;
+        text-shadow: 5px 0px 1px blue
+
+    }
+    40% {
+        left: 48%;
+        text-shadow: 5px 0px 1px red;
+    }
+    45% {
+        left: 50%;
+        text-shadow: 5px 0px 1px red;
+    }
+    50% {
+        left: 50%;
+    }
+    55% {
+        left: 50%;
+    }
+    60% {
+        left: 50%;
+    }
+    65% {
+        left: 50%;
+    }
+    70% {
+        left: 50%;
+    }
+    75% {
+        left: 50%;
+    }
+    80% {
+        left: 50%;
+    }
+    85% {
+        left: 50%;
+    }
+    90% {
+        left: 50%;
+    }
+    95% {
+        left: 50%;
+    }
+    100% {
+        left: 50%;
+    }
+}
+
+@keyframes error_bottom_animation {
+    0% {
+        left: 50%;
+        text-shadow: 5px 0px 1px blue;
+    }
+    5% {
+        left: 51%;
+        text-shadow: 5px 0px 1px red;
+    }
+    10% {
+        left: 51%;
+        text-shadow: 5px 0px 1px blue
+    }
+    15% {
+        left: 51%;
+    }
+    20% {
+        left: 50%;
+    }
+    25% {
+        left: 50%;
+        text-shadow: 5px 0px 1px red;
+    }
+    30% {
+        left: 51%;
+    }
+    35% {
+        left: 48%;
+        text-shadow: 5px 0px 1px blue
+
+    }
+    40% {
+        left: 48%;
+        text-shadow: 5px 0px 1px red;
+    }
+    45% {
+        left: 50%;
+        text-shadow: 5px 0px 1px red;
+    }
+    50% {
+        left: 50%;
+    }
+    55% {
+        left: 50%;
+    }
+    60% {
+        left: 50%;
+    }
+    65% {
+        left: 50%;
+    }
+    70% {
+        left: 50%;
+    }
+    75% {
+        left: 50%;
+    }
+    80% {
+        left: 50%;
+    }
+    85% {
+        left: 50%;
+    }
+    90% {
+        left: 50%;
+    }
+    95% {
+        left: 50%;
+    }
+    100% {
+        left: 50%;
+    }
+}
+
+@keyframes box_button {
+    0% {
+        background-position: 0 0;
+    }
+    50% {
+        background-position: 400% 0;
+    }
+    100% {
+        background-position: 0 0;
+    }
+}
